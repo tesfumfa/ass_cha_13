@@ -1,7 +1,7 @@
 # ass_cha_13
 <h1>Object-Relational Mapping (ORM) Challenge: E-commerce Back End</>
   <h2>Description</h2>
-  <p>My challenge this week was to build the back end for an e-commerce site. I was given a working Express.js API and instructed to configure it to use Sequelize to interact with a MySQL database. Testing was completed in Insomnia. The application will not be deployed, so a video walkthrough is provided below.</p>
+  <p>My challenge this week was to build the back end for an e-commerce site. I was given a working Express.js API and instructed to configure it to use Sequelize to interact with a MySQL database. Testing was completed in locally in the browser . The application will not be deployed, so a video walkthrough is provided below.</p>
 <h2>User Story</h2>
 <p> AS A manager at an internet retail company<br/>
 I WANT a back end for my e-commerce website that uses the latest technologies<br>
@@ -18,3 +18,7 @@ WHEN I open API GET routes in Insomnia Core for categories, products, or tags<br
 THEN the data for each of these routes is displayed in a formatted JSON<br/>
 WHEN I test API POST, PUT, and DELETE routes in Insomnia Core<br/>
 THEN I am able to successfully create, update, and delete data in my database</p>
+<h2>Mock-Up</h2>
+<p>The following animations show examples of the application's API routes<br/>
+  being tested in server http://localhost:3001 in the browser </p> 
+  video walkthrough:https://www.youtube.com/watch?v=xR2c14l4S8c
