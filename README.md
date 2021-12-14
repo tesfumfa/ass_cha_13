@@ -21,4 +21,7 @@ THEN I am able to successfully create, update, and delete data in my database</p
 <h2>Mock-Up</h2>
 <p>The following animations show examples of the application's API routes<br/>
   being tested in server http://localhost:3001 in the browser </p> 
-  video walkthrough:https://www.youtube.com/watch?v=xR2c14l4S8c
+  video walkthrough:https://www.youtube.com/watch?v=xR2c14l4S8c<br/>
+  
+  Video walkthrough  Update:  using Rest Client API  test in visual studio code :
+  https://www.youtube.com/watch?v=qZmPPNlNWg0
